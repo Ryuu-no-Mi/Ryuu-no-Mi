@@ -12,9 +12,12 @@
 <h2 align="left">👩‍💻 Sobre mí</h3>
 
 <p>
-  Desarrollador apasionado por el aprendizaje continuo, orientado al desarrollo backend y con interés en el ecosistema de Spring Boot. 
-  Estoy enfocado en crecer profesionalmente, contribuyendo a proyectos innovadores.
+  Me apasiona el backend, especialmente con Java y Python, aunque también me interesa aprender frontend. Actualmente, estoy estudiando Spring Boot y desarrollando APIs RESTful para conectarlas con un frontend web y una app móvil. 
 </p>
+<p>
+  Busco una oportunidad para seguir aprendiendo y crecer como desarrollador backend junior.
+</p>
+
 <br>
 
 <h2 align="left">🛠 Lenguajes y herramientas</h2>
