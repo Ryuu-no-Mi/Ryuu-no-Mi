@@ -12,19 +12,10 @@
 <h2 align="left">👩‍💻 Sobre mí</h3>
 
 <p>
-  Soy un desarrollador apasionado por el aprendizaje, orientado al desarrollo backend y con interés en el ecosistema de Spring Boot. 
+  Desarrollador apasionado por el aprendizaje continuo, orientado al desarrollo backend y con interés en el ecosistema de Spring Boot. 
   Estoy enfocado en crecer profesionalmente, contribuyendo a proyectos innovadores.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-monserrate-villa-67a51b189/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 </p>
-
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="left">🛠 Lenguajes y herramientas</h2>
 
@@ -62,15 +53,16 @@
 <br>
 
 ## <b>¡Contactemos!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9s-monserrate-villa-67a51b189/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="LinkedIn" style="margin-bottom: 5px; width: 100px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="LinkedIn" style="width: 100px;"/>
   </a>
-
+  <img width="20" />
   <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=9068534025380591259" target="_blank">
-    <img src="https://brand.infojobs.net/images/infojobs.png" alt="InfoJobs" style="margin-bottom: 5px; width: 100px;"/>
+    <img src="https://brand.infojobs.net/images/infojobs.png" alt="InfoJobs" style="width: 100px;"/>
   </a>
 </div>
 
